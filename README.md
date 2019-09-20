@@ -19,6 +19,8 @@
 
 ## Templates - Data
 
+These templates are needed for all sorts of *meta* data added to dishes, beer, and wine pages. The purpose is/was to provide a solid foundation for all kinds of pre-defined searches and lists.
+
 * dataAlcohol
 * dataAllergy
 * dataBeer
@@ -44,14 +46,14 @@
 
 ## Modules
 
-* MenuBuilder by 
-* Autocomplete Module Class Name by 
-* SEO Maestro by
-* Import Pages from CSV by
-* PagefieldPairs by 
-* Database Backups by 
-* Upgrades by 
-* Template Field Widths by
+* MenuBuilder
+* Autocomplete Module Class Name
+* SEO Maestro
+* Import Pages from CSV
+* PagefieldPairs
+* Database Backups
+* Upgrades
+* Template Field Widths
 * webmanufaktur Helper Module
 
 ### Support
@@ -68,7 +70,7 @@ PWB Restaurant is free for personal and commercial use - see LICENSE.md for furt
 
 ### License for included modules
 
-Please refer to these licenses individually. All included 3rd party modules listed above.
+Please refer to module licenses individually. All included 3rd party modules listed above.
 
 **ProcessWire Forum**
 
