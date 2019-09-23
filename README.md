@@ -43,7 +43,7 @@ These templates are needed for all sorts of *meta* data added to dishes, beer, a
 
 * Dishes inspired by food stock photos
 * Images (all blurred) from pexels.com
-* (if you are a hobby or professional cook let me know - I will add your dish here as demo entry (backlinked and referenced of course)
+* if you are a hobby or professional cook let me know - I will add your dish here as demo entry (backlinked and referenced of course
 
 ## Modules
 
